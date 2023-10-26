@@ -1,0 +1,4 @@
+
+react sever
+npm i axios react-router-dom react-bootstrap bootstrap 
+npm i react-redux @reduxjs/toolkit
